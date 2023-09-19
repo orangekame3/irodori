@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/orangekame3/irodori"
+	irodori "github.com/orangekame3/irodori"
 )
 
 func main() {
