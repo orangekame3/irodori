@@ -179,6 +179,6 @@ func format(bgColor, textColor Color, r string) string {
 		AlignVertical(lipgloss.Center).
 		Padding(0, 1).
 		Height(1).
-		Width(20).
+		Width(25).
 		Render(r)
 }
