@@ -1,3 +1,4 @@
+// pakcage main is example of irodori
 package main
 
 import (
