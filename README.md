@@ -2,12 +2,11 @@
 
 <br>
 <p align="center">
-irodori(彩)
+<img src="img/irodori.png" alt="Color Pallete" height="350" width="350"/>
 </p>
 
-<br>
 <p align="center">
-<img src="img/irodori.png" alt="Color Pallete" height="350" width="350"/>
+irodori(彩)
 </p>
 
 <p align="center">
