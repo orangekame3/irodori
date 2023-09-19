@@ -1,4 +1,4 @@
-module github.com/oragekame3/irodori
+module github.com/orangekame3/irodori
 
 go 1.21
 
